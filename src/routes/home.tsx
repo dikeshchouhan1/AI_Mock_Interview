@@ -31,15 +31,15 @@ const HomePage = () => {
 
         <div className="flex w-full items-center justify-evenly md:px-12 md:py-16 md:items-center md:justify-end gap-12">
           <p className="text-3xl font-semibold text-gray-900 text-center">
-            250k+
+            
             <span className="block text-xl text-muted-foreground font-normal">
-              Offers Recieved
+            
             </span>
           </p>
           <p className="text-3xl font-semibold text-gray-900 text-center">
-            1.2M+
+            
             <span className="block text-xl text-muted-foreground font-normal">
-              Interview Aced
+            
             </span>
           </p>
         </div>
